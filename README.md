@@ -18,3 +18,14 @@
 - In all databases, null values are ignored.
 - The COVID 19 data covers January through April 20, 2020. No data prior to this timeframe has been analyzed. 
 
+## Exploratory Analysis - 19/4/20
+
+### Count of Confirmed and Death Cases in Countries 
+
+![Maps.png](https://github.com/spogoff/COVID_data_analysis_Apr20/blob/master/Assets/Maps.png?raw=true)
+
+### Growth Patterns of Confimred and Death Cases in Countries with Most Cases
+
+![Running_sum_death_confirmed.png](https://github.com/spogoff/COVID_data_analysis_Apr20/blob/master/Assets/Running_sum_death_confirmed.png?raw=true)
+
+ 
