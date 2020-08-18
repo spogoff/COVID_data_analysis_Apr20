@@ -37,3 +37,20 @@ While most countries with highest reported cases follow the same pattern of grow
 This chart clearly shows the spread of virus across Europe and the Americas as the cases seem to drop in Western Pacific (China falls into this category in WHO regions).
 
 ![confirmed_cases_by_day.png](https://github.com/spogoff/COVID_data_analysis_Apr20/blob/master/Assets/confirmed_cases_by_day.png?raw=true)
+
+
+## Looking for Patterns
+
+In order to answer the subprompt question of this analysis, a few indices were used to measure 1) how different countries have managed COVID19, 2) how do different countries' healthcare systems compare.
+
+### Health System Indices
+
+WHO uses a series of indices to  measure accessibilty and quality of health care systems in countries. The four major indices selected for this analysis are:
+
+  1) GDP % on Health Expenditure 
+  2) Healthcare professionals per 10,000 capita
+  3) Immunization Ratio 
+  and
+  4) Human Development Index, which is a composite index which measures access to healthcare and life expectency among other things.
+
+In addition to the indices above, the ratio of death to confirmed cases has been used as the only calculated index to measure governments' response to COVID 19.
