@@ -32,4 +32,8 @@ While most countries with highest reported cases follow the same pattern of grow
 
 ![Running_sum_death_confirmed.png](https://github.com/spogoff/COVID_data_analysis_Apr20/blob/master/Assets/Running_sum_death_confirmed.png?raw=true)
 
- 
+### Running Sum of Confirmed Cases by Region
+
+This chart clearly shows the spread of virus across Europe and the Americas as the cases seem to drop in Western Pacific (China falls into this category in WHO regions).
+
+![confirmed_cases_by_day.png](https://github.com/spogoff/COVID_data_analysis_Apr20/blob/master/Assets/confirmed_cases_by_day.png?raw=true)
