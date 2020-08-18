@@ -11,3 +11,10 @@
  - WHO Health Care Professsionals to 10,000 Population by Country 2020
  - WHO Child Immunization Estimates 2018
  - WHO Human Development Index by Country 2020
+
+## Disclaimer
+
+- In the WHO GDP % expenditure on health database, the assumption is that the numbers have not changed significantly between 2015 to present.
+- In all databases, null values are ignored.
+- The COVID 19 data covers January through April 20, 2020. No data prior to this timeframe has been analyzed. 
+
