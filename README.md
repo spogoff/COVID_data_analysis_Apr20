@@ -22,9 +22,13 @@
 
 ### Sum of Confirmed and Death Cases in Countries 
 
+In the first glance, the ratio of death to confimred cases do not seem to be the same across countries. For instance this ratio is much higher in countries like Spain and Italy compared to Germany.
+
 ![Maps.png](https://github.com/spogoff/COVID_data_analysis_Apr20/blob/master/Assets/Maps.png?raw=true)
 
 ### Growth Patterns of Confimred and Death Cases in Countries with Most Cases
+
+While most countries with highest reported cases follow the same pattern of growth in their total numbers, China and Iran seem to have flattened their curves much more quickly than the rest. This could potentially indicate a drop in testing and/or reporting rather than controling the spread of the virus.
 
 ![Running_sum_death_confirmed.png](https://github.com/spogoff/COVID_data_analysis_Apr20/blob/master/Assets/Running_sum_death_confirmed.png?raw=true)
 
