@@ -20,7 +20,7 @@
 
 ## Exploratory Analysis - 19/4/20
 
-### Count of Confirmed and Death Cases in Countries 
+### Sum of Confirmed and Death Cases in Countries 
 
 ![Maps.png](https://github.com/spogoff/COVID_data_analysis_Apr20/blob/master/Assets/Maps.png?raw=true)
 
